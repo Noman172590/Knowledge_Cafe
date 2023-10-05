@@ -1,0 +1,6 @@
+.Mapproduct{
+   margin: 10px 40px;
+   display: grid;
+   grid-template-columns: repeat(2,1fr);
+   gap: 25px;
+}
